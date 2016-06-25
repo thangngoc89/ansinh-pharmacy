@@ -3038,3 +3038,12 @@
 					}
 
 	}
+
+.aveda {
+  width: 100%;
+}
+.aveda img {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+}
