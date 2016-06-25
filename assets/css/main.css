@@ -1800,9 +1800,9 @@
 		margin-top: 0.5em;
 	}
 
-  ul.divided li em {
+  /*ul.divided li em {
     padding-right: 1em;
-  }
+  }*/
 
 		ul.divided li:first-child {
 			border-top: 0;
